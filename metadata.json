@@ -1,0 +1,5 @@
+{
+  "name": "Analizator Google Analytics z AI",
+  "description": "Wklej swoje dane z Google Analytics (w formacie CSV lub JSON), aby uzyskać automatyczną analizę i podsumowanie wniosków dzięki Gemini API. Aplikacja pomoże Ci zidentyfikować trendy, zrozumieć zachowania użytkowników i uzyskać ogólne podsumowanie kondycji Twojej witryny.",
+  "requestFramePermissions": []
+}
